@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DancingGranny
-- 👀 I’m interested in grinding
-- 🌱 I’m currently learning Beginner Coding and Calc 
-- 💞️ I’m looking to collaborate on Nothing yet (gimme some time to get the beginning stuff down :))
+- 👋 Hello, I'm Nathan
+- 👀 I like to travel
+- 🌱 I’m currently learning how to code in Java and Python 
+- 💞️ I would love to collaborate on any projects
 - 📫 How to reach me Email: nathan.cm.lee@gmail.com
-- 😄 Pronouns: I don't do this I'm a guy
-- ⚡ Fun fact: Got a dog named Peppie...love this dog...:)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Got a dog named Peppie
 
 <!---
 DancingGranny/DancingGranny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
